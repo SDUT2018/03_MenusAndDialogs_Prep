@@ -5,11 +5,15 @@
     <string name="name_format">Name: %s</string>
     <string name="quantity_format">Quantity: %d</string>
     <string name="date_format">Delivery date: %s</string>
-    <string name="name_start">Name</string>
+    <string name="name_start">---</string>
     <string name="quantity_start">Quantity</string>
     <string name="date_start">Delivery date</string>
     <string name="reset">Reset</string>
     <string name="remove">Remove</string>
     <string name="confirmation_dialog_message">Are you sure you want to remove all items?</string>
     <string name="edit">Edit</string>
+    <string name="undo">UNDO</string>
+    <string name="search">Search</string>
+    <string name="choose_an_item">Choose an item</string>
+    <string name="clear_all">Clear All</string>
 </resources>
